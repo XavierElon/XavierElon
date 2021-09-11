@@ -14,6 +14,7 @@ Crypto projects I am highly invested and interested in:
 <a href="https://hedera.com/"><img height="200px" width="250px" align="center" alt="Hedera" src="/hedera-hashgraph-hbar.gif" /></a>
 <a href="https://www.algorand.com/futurefi/"><img height="200px" align="center" alt="Algorand" src="/algorand.gif" /></a>
 <a href="https://polkadot.network/"><img height="200px" align="center" alt="Polkadot" src="/polkadot.gif" /></a>
+<a href="https://kusama.network/"><img height="200px" align="center" alt="Kusama" src="/kusama.gif" /></a>
 
 
 <!--
