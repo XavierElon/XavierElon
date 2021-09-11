@@ -6,7 +6,7 @@
 <p align="center"> 💬 msg me on <a href="https://t.me/xavierelon">Telegram</a> or Discord @Xavier Elon #2846</p>
 
 
-<img src="https://tenor.com/byOAY.gif"/>
+<div class="tenor-gif-embed" data-postid="20651630" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/xmr-monero-privacy-getmonero-end-the-fed-gif-20651630">Xmr Monero GIF</a>from <a href="https://tenor.com/search/xmr-gifs">Xmr GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--
 <p align="right"><strong>💀 🔪 👨🏻‍💻 building <a href="https://tinyhttp.v1rtl.site"><code>tinyhttp</code></a>, (not actually) working at <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="https://brandname.tech"><code>brandname 🅱️</code></a> and <a href="https://pmnd.rs"><code>poimandres ⚫</code></a>
 
