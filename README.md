@@ -7,9 +7,10 @@
 
 Crypto projects I am highly invested and interested in:
 <br><br>
-<br><br>
-<a href="https://www.getmonero.org/"><img height="250px" align="center" alt="XMR" src="/xmr-monero.gif" /></a>
-<a href="https://ethereum.org/en/"><img height="250px" align="center" alt="Ethereum" src="/eth.gif" /></a>
+
+<a href="https://www.getmonero.org/"><img height="200px" align="center" alt="XMR" src="/xmr-monero.gif" /></a>
+<a href="https://ethereum.org/en/"><img height="200px" align="center" alt="Ethereum" src="/eth.gif" /></a>
+<a href="https://solana.com/"><img height="200px" align="center" alt="Solana" src="/solana.gif" /></a>
 
 
 <!--
