@@ -6,7 +6,10 @@
 <p align="center"> 💬 Message me on <a href="https://t.me/xavierelon">Telegram</a> or Discord @Xavier Elon #2846</p>
 
 Crypto projects I am highly invested and interested in:
-<a href="https://www.getmonero.org/"><img height="250px" align="center" alt="Support" src="/xmr-monero.gif" /></a>
+<br><br>
+<br><br>
+<a href="https://www.getmonero.org/"><img height="250px" align="center" alt="XMR" src="/xmr-monero.gif" /></a>
+<a href="https://ethereum.org/en/"><img height="250px" align="center" alt="Ethereum" src="/eth.gif" /></a>
 
 
 <!--
