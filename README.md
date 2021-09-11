@@ -61,6 +61,8 @@ _`data`_
 - <img src="" /> Mac nerd
 - 🙅 avaialable for hire. Looking to break into the crypto/blockchain world as a fullstack developer
 
+**This readme is a WIP please be patient. Thanks**
+
 <!--
 **XavierElon1/XavierElon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
