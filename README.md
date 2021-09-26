@@ -4,6 +4,10 @@
 
 
 <p align="center"> 💬 Message me on <a href="https://t.me/xavierelon">Telegram</a> or Discord @Xavier Elon #2846</p>
+<br><br>
+Currently working at Deloitte as a Full-Stack Software Engineer
+
+<br><br>
 
 Crypto projects I am highly invested and interested in:
 <br><br>
@@ -16,6 +20,13 @@ Crypto projects I am highly invested and interested in:
 <a href="https://polkadot.network/"><img height="200px" align="center" alt="Polkadot" src="/polkadot.gif" /></a>
 <a href="https://kusama.network/"><img height="200px" align="center" alt="Kusama" src="/kusama.gif" /></a>
 
+
+<br><br>
+Current project I am working on (not live yet): PiggyBank - A decentralized app (dapp) <a href='https://github.com/XavierElon/piggybank'>PiggyBank</a>
+
+<br><br>
+
+Cuurent open-source Web3 project I am working on/contributing to: 
 
 <!--
 <p align="right"><strong>💀 🔪 👨🏻‍💻 building <a href="https://tinyhttp.v1rtl.site"><code>tinyhttp</code></a>, (not actually) working at <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="https://brandname.tech"><code>brandname 🅱️</code></a> and <a href="https://pmnd.rs"><code>poimandres ⚫</code></a>
@@ -69,9 +80,9 @@ _`data`_
 
 -->
 
-- country: USA
-- <img src="" /> Mac nerd
-- � avaialable for hire. Looking to break into the crypto/blockchain world as a fullstack developer
+- country: USA 🇺🇸
+- 🍎 Mac nerd
+- 👀 avaialable for hire. Looking to break into the crypto/blockchain world as a fullstack developer
 
 **This readme is a WIP please be patient. Thanks**
 
