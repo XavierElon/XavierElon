@@ -10,6 +10,7 @@ Currently working at Deloitte as a Full-Stack Software Engineer ⌨️ 💻 🖥
 <br><br>
 
 Crypto projects I am highly invested and interested in:
+
 <br><br>
 
 <a href="https://www.getmonero.org/"><img height="200px" align="center" alt="XMR" src="/xmr-monero.gif" /></a>
@@ -31,7 +32,8 @@ Cuurent open-source Web3 project I am working on/contributing to:
 <br><br>
 
 Languages and frameworks I am well versed at:
-<a href=""><img height="200px" align="center" alt="react" src="/react.jpg" /></a>
+<a href=""><img height="200px" align="center" alt="react" src="/react.gif" /></a>
+<a href=""><img height="200px" align="center" alt="next" src="/next.jpg"/></a>
 
 
 <!--
