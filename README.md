@@ -32,8 +32,8 @@ Cuurent open-source Web3 project I am working on/contributing to:
 <br><br>
 
 Languages and frameworks I am well versed at:
-<a href=""><img height="200px" align="center" alt="react" src="/react.gif" /></a>
-<a href=""><img height="200px" align="center" alt="next" src="/next.jpg"/></a>
+<a href=""><img height="200px" align="center" alt="react" src="./public/react.gif" /></a>
+<a href=""><img height="200px" align="center" alt="next" src="./public/next.jpg"/></a>
 
 
 <!--
