@@ -5,7 +5,7 @@
 
 <p align="center"> 💬 Message me on <a href="https://t.me/xavierelon">Telegram</a> or Discord @Xavier Elon #2846</p>
 <br><br>
-Currently working at Deloitte as a Full-Stack Software Engineer
+Currently working at Deloitte as a Full-Stack Software Engineer ⌨️ 💻 🖥
 
 <br><br>
 
