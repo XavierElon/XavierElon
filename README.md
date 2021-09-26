@@ -48,7 +48,9 @@ Tech I am currently learning:
 Languages and tech I have previously used: 
 <br><br>
 
+<a href=""><img height="200px" align="center" alt="next" src="./public/c.jpeg"/></a>
 <a href=""><img height="200px" align="center" alt="next" src="./public/c++.jpeg"/></a>
+<a href=""><img height="200px" align="center" alt="next" src="./public/python.jpeg"/></a>
 <!--
 <p align="right"><strong>💀 🔪 👨🏻‍💻 building <a href="https://tinyhttp.v1rtl.site"><code>tinyhttp</code></a>, (not actually) working at <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="https://brandname.tech"><code>brandname 🅱️</code></a> and <a href="https://pmnd.rs"><code>poimandres ⚫</code></a>
 
