@@ -50,7 +50,7 @@ Languages and tech I have previously used:
 
 <a href=""><img height="200px" align="center" alt="next" src="./public/c.jpeg"/></a>
 <a href=""><img height="200px" align="center" alt="next" src="./public/c++.jpeg"/></a>
-<a href=""><img height="200px" align="center" alt="next" src="./public/python.png"/></a>
+<a href=""><img height="200px" align="center" alt="next" src="./public/python.gif"/></a>
 <a href=""><img height="200px" align="center" alt="next" src="./public/java.gif"/></a>
 <!--
 <p align="right"><strong>💀 🔪 👨🏻‍💻 building <a href="https://tinyhttp.v1rtl.site"><code>tinyhttp</code></a>, (not actually) working at <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="https://brandname.tech"><code>brandname 🅱️</code></a> and <a href="https://pmnd.rs"><code>poimandres ⚫</code></a>
@@ -77,32 +77,8 @@ Languages and tech I have previously used:
   <img src="https://tinyhttp.v1rtl.site/images/logo.svg" align="right" height="80px" /></a>
 </p>
 
-<sub>
-
-##### contributing to other projects
-
-- made logo for [smoldash](https://github.com/marvinhagemeister/smoldash)
-- added Russian translation to [gotop](https://github.com/xxxserxxx/gotop)
-
-</sub>
-
-<p align="center">→ ⛧ tech i use ✨ ←</p>
-
-<p align="center">
-  <img src="https://api.iconify.design/logos:figma.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/logos:typescript-icon.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/vscode-icons:file-type-go-gopher.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/logos:react.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/vscode-icons:file-type-caddy.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/vscode-icons:file-type-light-pnpm.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/file-icons:nextjs.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/logos:graphql.svg" height="48px" width="48px" align="center" />
- </p>
 
 
-_`data`_
-
--->
 
 - Country: USA 🇺🇸
 - 🍎 Mac/Linux nerd
