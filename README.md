@@ -28,6 +28,12 @@ Current project I am working on (not live yet): PiggyBank - A decentralized app 
 
 Cuurent open-source Web3 project I am working on/contributing to: 
 
+<br><br>
+
+Languages and frameworks I am well versed at:
+<a href=""><img height="200px" align="center" alt="react" src="/react.jpg" /></a>
+
+
 <!--
 <p align="right"><strong>💀 🔪 👨🏻‍💻 building <a href="https://tinyhttp.v1rtl.site"><code>tinyhttp</code></a>, (not actually) working at <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="https://brandname.tech"><code>brandname 🅱️</code></a> and <a href="https://pmnd.rs"><code>poimandres ⚫</code></a>
 
@@ -80,9 +86,9 @@ _`data`_
 
 -->
 
-- country: USA 🇺🇸
-- 🍎 Mac nerd
-- 👀 avaialable for hire. Looking to break into the 🔑🔑🔑�crypto/blockchain🔑🔑🔑 world as a fullstack developer 🔑🔑🔑
+- Country: USA 🇺🇸
+- 🍎 Mac/Linux nerd
+- 👀 avaialable for hire. Looking to break into the 🔑🔑🔑crypto/blockchain🔑🔑🔑 world as a fullstack developer 🔑🔑🔑
 
 **This readme is a WIP please be patient. Thanks**
 
