@@ -31,12 +31,24 @@ Cuurent open-source Web3 project I am working on/contributing to:
 
 <br><br>
 
-Languages and frameworks I am well versed at: 
+Languages, technology and frameworks I am well versed at: 
 <br><br>
 <a href=""><img height="200px" align="center" alt="react" src="./public/react.gif" /></a>
 <a href=""><img height="200px" align="center" alt="next" src="./public/next.jpeg"/></a>
+<a href=""><img height="200px" align="center" alt="next" src="./public/aws.jpeg"/></a>
 
+<br><br>
+Tech I am currently learning:
+<br><br>
 
+<a href=""><img height="200px" align="center" alt="next" src="./public/solidity.jpeg"/></a>
+<a href=""><img height="200px" align="center" alt="next" src="./public/typescript.jpeg"/></a>
+
+<br><br>
+Languages and tech I have previously used: 
+<br><br>
+
+<a href=""><img height="200px" align="center" alt="next" src="./public/c++.jpeg"/></a>
 <!--
 <p align="right"><strong>💀 🔪 👨🏻‍💻 building <a href="https://tinyhttp.v1rtl.site"><code>tinyhttp</code></a>, (not actually) working at <a href="https://rainbow.me"><code>rainbow 🌈</code></a>, <a href="https://brandname.tech"><code>brandname 🅱️</code></a> and <a href="https://pmnd.rs"><code>poimandres ⚫</code></a>
 
