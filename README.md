@@ -82,7 +82,7 @@ _`data`_
 
 - country: USA 🇺🇸
 - 🍎 Mac nerd
-- 👀 avaialable for hire. Looking to break into the crypto/blockchain world as a fullstack developer
+- 👀 avaialable for hire. Looking to break into the 🔑🔑🔑�crypto/blockchain🔑🔑🔑 world as a fullstack developer 🔑🔑🔑
 
 **This readme is a WIP please be patient. Thanks**
 
