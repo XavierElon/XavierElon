@@ -13,7 +13,7 @@ Crypto projects I am highly invested and interested in:
 
 <br><br>
 
-<a href="https://www.getmonero.org/"><img height="200px" align="center" alt="XMR" src="../public/xmr-monero.gif" /></a>
+<a href="https://www.getmonero.org/"><img height="200px" align="center" alt="XMR" src="./public/xmr-monero.gif" /></a>
 <a href="https://ethereum.org/en/"><img height="200px" margin-left="-30px" align="center" alt="Ethereum" src="../public/eth.gif" /></a>
 <a href="https://solana.com/"><img height="200px" align="center" alt="Solana" src="../public/solana.gif" /></a>
 <a href="https://hedera.com/"><img height="200px" width="250px" align="center" alt="Hedera" src="../public/hedera-hashgraph-hbar.gif" /></a>
