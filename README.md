@@ -27,22 +27,22 @@ Current project I am working on (not live yet): PiggyBank - A decentralized app 
 
 <br><br>
 
-Cuurent open-source Web3 project I am working on/contributing to: 
+Cuurent open-source Web3 project I am working on/contributing to: <a href='https://github.com/inkapp/ink-interface'>Ink</a>
 
 <br><br>
 
 Languages, technology and frameworks I am well versed at: 
 <br><br>
-<a href=""><img height="200px" width="300px" align="center" alt="react" src="./public/react.gif" /></a>
-<a href=""><img height="200px" width="250px" align="center" alt="next" src="./public/next.jpeg"/></a>
-<a href=""><img height="200px" align="center" alt="next" src="./public/aws.gif"/></a>
+<a href="https://reactjs.org/"><img height="200px" width="300px" align="center" alt="react" src="./public/react.gif" /></a>
+<a href="https://nextjs.org/"><img height="200px" width="250px" align="center" alt="next" src="./public/next.jpeg"/></a>
+<a href="https://aws.amazon.com/"><img height="200px" align="center" alt="next" src="./public/aws.gif"/></a>
 
 <br><br>
 Tech I am currently learning:
 <br><br>
 
-<a href=""><img height="200px" align="center" alt="next" src="./public/solidity.jpeg"/></a>
-<a href=""><img height="200px" align="center" alt="next" src="./public/typescript.jpeg"/></a>
+<a href="https://docs.soliditylang.org/en/v0.8.8/"><img height="200px" align="center" alt="next" src="./public/solidity.jpeg"/></a>
+<a href="https://www.typescriptlang.org/"><img height="200px" align="center" alt="next" src="./public/typescript.jpeg"/></a>
 
 <br><br>
 Languages and tech I have previously used: 
