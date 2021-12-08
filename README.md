@@ -1,4 +1,4 @@
- **Fullstack** developer.
+ **Fullstack** developer. **Looking for work at blockchain/cryptocurrency startup.** Please contact me if you know of such an opportunity.
 
 ---- ☢️ 🌍 ~> ⛧ www.xavierelon.com ✨ <~ ----
 
