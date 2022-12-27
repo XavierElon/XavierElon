@@ -8,6 +8,7 @@
 #Currently working at Deloitte as a Full-Stack Software Engineer ⌨️ 💻 🖥
 
 <br><br>
+<!--
 
 Crypto projects I am highly invested and interested in:
 
@@ -22,6 +23,7 @@ Crypto projects I am highly invested and interested in:
 <a href="https://kusama.network/"><img height="200px" align="center" alt="Kusama" src="./public/kusama.gif" /></a>
 
 <br><br>
+-->
 
 <br><br>
 
