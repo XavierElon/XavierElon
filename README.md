@@ -3,7 +3,7 @@
 ---- ☢️ 🌍 ~> ⛧ www.xavierelon.com ✨ <~ ----
 
 
-<p align="center"> 💬 Message me on <a href="https://t.me/xavierelon">Telegram</a> or Discord @Xavier Elon #2846</p>
+<p align="center"> 💬 Email me at **xavierelon93@gmail.com**</p>
 <br><br>
 #Currently working at Deloitte as a Full-Stack Software Engineer ⌨️ 💻 🖥
 
