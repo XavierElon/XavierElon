@@ -3,7 +3,7 @@
 ---- ☢️ 🌍 ~> ⛧ www.xavierelon.com ✨ <~ ----
 
 
-<p align="center"> 💬 Email me at **xavierelon93@gmail.com**</p>
+<p align="center"> 💬 Email me at <b>xavierelon93@gmail.com</b></p>
 <br><br>
 #Currently working at Deloitte as a Full-Stack Software Engineer ⌨️ 💻 🖥
 
