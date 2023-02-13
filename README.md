@@ -1,6 +1,6 @@
- **Fullstack** developer. **Currently working at Deloitte as a full-stack engineer/front-end lead and open to new opportunities**
+ **Fullstack** developer. **Currently working at Deloitte as a full-stack engineer/front-end lead**
 
----- ☢️ 🌍 ~> ⛧ www.xavierelon.com ✨ <~ ----
+☢️ 🌍 ~> ⛧ www.xavierelon.com ✨ 
 
 
 <p align="center"> 💬 Email me at <b>xavierelon93@gmail.com</b></p>
