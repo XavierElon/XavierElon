@@ -8,7 +8,7 @@ USA 🇺🇸 Orlando, FL
 
 <br><br>
 
-<h3> I am currently working on a startup: www.versusapp.io , an application that allows players to stake on video games. </h3>
+<h4> I am currently working on a startup: www.versusapp.io , an application that allows players to stake on video games. </h4>
 <p> I am the lead engineer/architect building the microservices (Node, Express, Typescript, Deno, MongoDb), iPhone application (Swift), and website application (Next, Typescript, React) </p>
 <p> You can find the repos on my Github here: </p>
 
