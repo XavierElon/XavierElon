@@ -7,22 +7,10 @@ USA 🇺🇸 Orlando, FL
 <p align="center"> 💬 Email me at <b>xavierelon93@gmail.com</b></p>
 
 <br><br>
-<!--
 
-Crypto projects I am highly invested and interested in:
-
-<br><br>
-
-<a href="https://www.getmonero.org/"><img height="200px" align="center" alt="XMR" src="./public/xmr-monero.gif" /></a>
-<a href="https://ethereum.org/en/"><img height="200px" margin-left="-30px" align="center" alt="Ethereum" src="./public/eth.gif" /></a>
-<a href="https://solana.com/"><img height="200px" align="center" alt="Solana" src="./public/solana.gif" /></a>
-<a href="https://hedera.com/"><img height="200px" width="250px" align="center" alt="Hedera" src="./public/hedera-hashgraph-hbar.gif" /></a>
-<a href="https://www.algorand.com/futurefi/"><img height="200px" align="center" alt="Algorand" src="./public/algorand.gif" /></a>
-<a href="https://polkadot.network/"><img height="200px" align="center" alt="Polkadot" src="./public/polkadot.gif" /></a>
-<a href="https://kusama.network/"><img height="200px" align="center" alt="Kusama" src="./public/kusama.gif" /></a>
-
-<br><br>
--->
+<h4> I am currently working on a startup: www.versusapp.io , an application that allows players to stake on video games. </h4>
+<p> I am the lead engineer/architect building the microservices (Node, Express, Typescript, Deno, MongoDb), iPhone application (Swift), and website application (Next, Typescript, React) </p>
+<p> You can find the repos on my Github</p>
 
 <br><br>
 
@@ -41,6 +29,7 @@ Tech I am currently learning:
 
 <a href="https://nextjs.org/"><img height="200px" width="250px" align="center" alt="next" src="./public/next.jpeg"/></a>
 <a href="https://deno.land"><img height="200px" width="250px" align="center" alt="next" src="./public/deno.webp"/></a>
+<a href="https://www.swift.org/"><img height="200px" width="250px" align="center" alt="next" src="./public/swift.png"/></a>
 
 
 <br><br>
