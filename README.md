@@ -11,13 +11,12 @@ USA 🇺🇸 Orlando, FL
 <h3> I am currently working on a startup: www.versusapp.io , an application that allows players to stake on video games. </h3>
 <p> I am the lead engineer/architect building the microservices (Node, Express, Typescript, Deno, MongoDb), iPhone application (Swift), and website application (Next, Typescript, React) </p>
 <p> You can find the repos on my Github here: </p>
-  <br/>
-  
-  <ul>+
+
+  <ul>
     <li><a href="https://github.com/XavierElon/versus-microservice">Node/Express/MongoDb Microservice</a></li>
     <li><a href="https://github.com/XavierElon/versus-ui-starter-app">Next/React/Typescript Website</a></li>
-    [Deno/Typescript Microservice](https://github.com/XavierElon/versus-ui-starter-app](https://github.com/XavierElon/versus-deno-microservice)
-    [React/Typescript Reusable Component Library](https://github.com/XavierElon/versus-reusable-component-library)
+    <li><a href="https://github.com/XavierElon/versus-deno-microservice">Deno/Typescript Microservice</a></li>
+    <li><a href="https://github.com/XavierElon/versus-reusable-component-library">React/Typescript Reusable Component Library</a></li>
   </ul>
 
 
