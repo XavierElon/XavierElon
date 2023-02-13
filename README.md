@@ -12,7 +12,7 @@ USA 🇺🇸 Orlando, FL
 <p> I am the lead engineer/architect building the microservices (Node, Express, Typescript, Deno, MongoDb), iPhone application (Swift), and website application (Next, Typescript, React) </p>
 <p> You can find the repos on my Github here: 
   <ul>
-    <li> <a href-"https://github.com/XavierElon/versus-microservice"><p>Node/Express/MongoDb Microservice</p></a> </li>
+    <li> <a href-"https://github.com/XavierElon/versus-microservice">Node/Express/MongoDb Microservice</a> </li>
     <li> [Next/React/Typescript Website](https://github.com/XavierElon/versus-ui-starter-app) </li>
     <li> [Deno/Typescript Microservice](https://github.com/XavierElon/versus-ui-starter-app](https://github.com/XavierElon/versus-deno-microservice) </li>
     <li> [React/Typescript Reusable Component Library](https://github.com/XavierElon/versus-reusable-component-library) </li>
