@@ -18,8 +18,6 @@ USA 🇺🇸 Orlando, FL
     <li><a href="https://github.com/XavierElon/versus-deno-microservice">Deno/Typescript Microservice</a></li>
     <li><a href="https://github.com/XavierElon/versus-reusable-component-library">React/Typescript Reusable Component Library</a></li>
   </ul>
-
-
 <br><br>
 
 Languages, technology and frameworks I am well versed at: 
