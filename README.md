@@ -16,7 +16,7 @@ USA 🇺🇸 Orlando, FL
     <li><a href="https://github.com/XavierElon/xsj-users-microservice">Node/Express/MongoDb/Typescript Microservice</a></li>
     <li><a href="https://github.com/XavierElon/xsj-ui-starter-app">Next/React/Typescript Website</a></li>
     <li><a href="https://github.com/XavierElon/xsj-deno-microservice">Deno/Typescript Microservice</a></li>
-    <li><a href="https://github.com/XavierElon/xjs-newsletter-microservice">Node/Express/MongoDb/Typescript Microservice</a></li>
+    <li><a href="https://github.com/XavierElon/xsj-newsletter-microservice">Node/Express/MongoDb/Typescript Microservice</a></li>
     <li><a href="https://github.com/XavierElon/xsj-reusable-component-library">React/Next/Typescript Reusable Component Library</a></li>
   </ul>
 
