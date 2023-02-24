@@ -8,15 +8,16 @@ USA 🇺🇸 Orlando, FL
 
 <br><br>
 
-<h4> I am currently working on a startup: www.versusapp.io , an application that allows players to stake on video games. </h4>
+<h4> I am currently working on a company in which I am leading 2 other engineers: http://35.85.64.31/ , an application that allows players to stake on video games. </h4>
 <p> I am the lead engineer/architect building the microservices (Node, Express, Typescript, Deno, MongoDb), iPhone application (Swift), and website application (Next, Typescript, React) </p>
 <p> You can find the repos on my Github here: </p>
 
   <ul>
-    <li><a href="https://github.com/XavierElon/versus-microservice">Node/Express/MongoDb Microservice</a></li>
-    <li><a href="https://github.com/XavierElon/versus-ui-starter-app">Next/React/Typescript Website</a></li>
-    <li><a href="https://github.com/XavierElon/versus-deno-microservice">Deno/Typescript Microservice</a></li>
-    <li><a href="https://github.com/XavierElon/versus-reusable-component-library">React/Typescript Reusable Component Library</a></li>
+    <li><a href="https://github.com/XavierElon/xsj-users-microservice">Node/Express/MongoDb/Typescript Microservice</a></li>
+    <li><a href="https://github.com/XavierElon/xsj-ui-starter-app">Next/React/Typescript Website</a></li>
+    <li><a href="https://github.com/XavierElon/xsj-deno-microservice">Deno/Typescript Microservice</a></li>
+    <li><a href="https://github.com/XavierElon/xjs-newsletter-microservice">Node/Express/MongoDb/Typescript Microservice</a></li>
+    <li><a href="https://github.com/XavierElon/xsj-reusable-component-library">React/Next/Typescript Reusable Component Library</a></li>
   </ul>
 
 Languages, technology and frameworks I am well versed at: 
