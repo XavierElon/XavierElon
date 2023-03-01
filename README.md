@@ -1,4 +1,4 @@
- **Fullstack** developer. **Currently working at Deloitte as a full-stack engineer/front-end lead**
+ **Fullstack** developer. **Currently working at Booz Allen as a Staff Engineer / full-stack engineer**
 
 ☢️ 🌍 ~> ⛧ www.xavierelon.com ✨ 
 USA 🇺🇸 Orlando, FL
@@ -8,7 +8,7 @@ USA 🇺🇸 Orlando, FL
 
 <br><br>
 
-<h4> I am currently working on a company in which I am leading 2 other engineers: http://35.85.64.31/ , an application that allows players to stake on video games. </h4>
+<h4> I am currently working on a company in which I am leading 3 ther engineers: http://35.85.64.31/ , an application that allows players to stake on video games. </h4>
 <p> I am the lead engineer/architect building the microservices (Node, Express, Typescript, Deno, MongoDb), iPhone application (Swift), and website application (Next, Typescript, React) </p>
 <p> You can find the repos on my Github here: </p>
 
