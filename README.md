@@ -1,4 +1,4 @@
- **Fullstack** developer. **Currently working at Booz Allen as a Staff Engineer / full-stack engineer**
+ **Fullstack** developer. **Currently working at Booz Allen as a Staff Engineer / Full Stack Software Engineer**
 
 ☢️ 🌍 ~> ⛧ www.xavierelon.com ✨ 
 USA 🇺🇸 Orlando, FL
