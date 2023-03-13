@@ -8,7 +8,7 @@ USA 🇺🇸 Orlando, FL
 
 <br><br>
 
-<h4> I am currently working on a company in which I am leading 3 ther engineers: http://35.85.64.31/ , an application that allows players to stake on video games. </h4>
+<h4> I am currently working on a company in which I am leading 3 other engineers: http://xsj-ui-starter-app-ALB-665016415.us-west-2.elb.amazonaws.com , an application that allows players to stake on video games. </h4>
 <p> I am the lead engineer/architect building the microservices (Node, Express, Typescript, Deno, MongoDb), iPhone application (Swift), and website application (Next, Typescript, React) </p>
 <p> You can find the repos on my Github here: </p>
 
