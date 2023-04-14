@@ -22,11 +22,12 @@ USA 🇺🇸 Orlando, FL
 
 Languages, technology and frameworks I am well versed at: 
 <br><br>
+<a href="https://www.typescriptlang.org/"><img height="200px" align="center" alt="next" src="./public/typescript.png"/></a>
 <a href="https://javascript.com/"><img height="200px" width="300px" align="center" alt="javascript" src="./public/javascript.png" /></a>
 <a href="https://reactjs.org/"><img height="200px" width="300px" align="center" alt="react" src="./public/react.gif" /></a>
 <a href="https://aws.amazon.com/"><img height="200px" align="center" alt="next" src="./public/aws.gif"/></a>
-<a href="https://www.java.com/en/"><img height="200px" align="center" alt="next" src="./public/java.gif"/></a>
-<a href="https://www.typescriptlang.org/"><img height="200px" align="center" alt="next" src="./public/typescript.png"/></a>
+
+
 
 
 <br><br>
@@ -35,7 +36,8 @@ Tech I am currently learning:
 
 <a href="https://nextjs.org/"><img height="200px" width="250px" align="center" alt="next" src="./public/next.jpeg"/></a>
 <a href="https://deno.land"><img height="200px" width="250px" align="center" alt="next" src="./public/deno.webp"/></a>
-<a href="https://www.swift.org/"><img height="200px" width="250px" align="center" alt="next" src="./public/swift.png"/></a>
+<a href="https://deno.land"><img height="200px" width="250px" align="center" alt="next" src="./public/deno.webp"/></a>
+<a href="https://firebase.google.com/"><img height="200px" width="250px" align="center" alt="firebase" src="./public/swift.png"/></a>
 
 
 <br><br>
@@ -45,3 +47,4 @@ Languages and tech I have previously used:
 <a href="https://www.learn-c.org/"><img height="200px" align="center" alt="next" src="./public/c.jpeg"/></a>
 <a href="https://isocpp.org/"><img height="200px" align="center" alt="next" src="./public/c++.jpeg"/></a>
 <a href="https://www.python.org/"><img height="200px" align="center" alt="next" src="./public/python.gif"/></a>
+<a href="https://www.java.com/en/"><img height="200px" align="center" alt="next" src="./public/java.gif"/></a>
