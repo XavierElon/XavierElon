@@ -22,9 +22,9 @@ USA 🇺🇸 Orlando, FL
 
 Languages, technology and frameworks I am well versed at: 
 <br><br>
+<a href="https://reactjs.org/"><img height="200px" width="300px" align="center" alt="react" src="./public/react.gif" /></a>
 <a href="https://www.typescriptlang.org/"><img height="200px" align="center" alt="next" src="./public/typescript.png"/></a>
 <a href="https://javascript.com/"><img height="200px" width="300px" align="center" alt="javascript" src="./public/javascript.png" /></a>
-<a href="https://reactjs.org/"><img height="200px" width="300px" align="center" alt="react" src="./public/react.gif" /></a>
 <a href="https://aws.amazon.com/"><img height="200px" align="center" alt="next" src="./public/aws.gif"/></a>
 
 
