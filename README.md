@@ -36,8 +36,7 @@ Tech I am currently learning:
 
 <a href="https://nextjs.org/"><img height="200px" width="250px" align="center" alt="next" src="./public/next.jpeg"/></a>
 <a href="https://deno.land"><img height="200px" width="250px" align="center" alt="next" src="./public/deno.webp"/></a>
-<a href="https://deno.land"><img height="200px" width="250px" align="center" alt="next" src="./public/deno.webp"/></a>
-<a href="https://firebase.google.com/"><img height="200px" width="250px" align="center" alt="firebase" src="./public/swift.png"/></a>
+<a href="https://firebase.google.com/"><img height="200px" width="250px" align="center" alt="firebase" src="./public/firebase.png"/></a>
 
 
 <br><br>
