@@ -7,9 +7,9 @@ USA 🇺🇸 Orlando, FL
 <p align="center"> 💬 Email me at <b>xavierelon93@gmail.com</b></p>
 
 <br><br>
-
-<h4> I am currently working on a company in which I am leading 3 other engineers: http://xsj-ui-starter-app-ALB-665016415.us-west-2.elb.amazonaws.com , an application that allows players to stake on video games. </h4>
-<p> I am the lead engineer/architect building the microservices (Node, Express, Typescript, Deno, MongoDb), iPhone application (Swift), and website application (Next, Typescript, React) </p>
+<!-- 
+<h4> I am currently working on a company in which I am leading 3 other engineers: http://xsj-ui-starter-app-ALB-665016415.us-west-2.elb.amazonaws.com , an application that allows players to stake on video games. </h4> -->
+<p> I am currently the lead engineer/architect with 3 other engineer friends building the microservices (Node, Express, Typescript, Deno, MongoDb),  and website application (Next, Typescript, React) </p>
 <p> You can find the repos on my Github here: </p>
 
   <ul>
@@ -37,6 +37,7 @@ Tech I am currently learning:
 <a href="https://nextjs.org/"><img height="200px" width="250px" align="center" alt="next" src="./public/next.jpeg"/></a>
 <a href="https://deno.land"><img height="200px" width="250px" align="center" alt="next" src="./public/deno.webp"/></a>
 <a href="https://firebase.google.com/"><img height="200px" width="250px" align="center" alt="firebase" src="./public/firebase.png"/></a>
+<a href="https://tailwindcss.com/"><img height="200px" width="250px" align="center" alt="tailwindcss" src="./public/tailwind.png"/></a>
 
 
 <br><br>
