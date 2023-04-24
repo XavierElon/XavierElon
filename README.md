@@ -1,4 +1,4 @@
- **Fullstack** developer. **Currently working at Booz Allen as a Staff Engineer / Full Stack Software Engineer**
+ **Fullstack** developer. **Currently working at Booz Allen as a Full-stack Staff Sotware Engineer**
 
 ☢️ 🌍 ~> ⛧ www.xavierelon.com ✨ 
 USA 🇺🇸 Orlando, FL
@@ -7,8 +7,7 @@ USA 🇺🇸 Orlando, FL
 <p align="center"> 💬 Email me at <b>xavierelon93@gmail.com</b></p>
 
 <br><br>
-<!-- 
-<h4> I am currently working on a company in which I am leading 3 other engineers: http://xsj-ui-starter-app-ALB-665016415.us-west-2.elb.amazonaws.com , an application that allows players to stake on video games. </h4> -->
+
 <p> I am currently the lead engineer/architect with 3 other engineer friends building the microservices (Node, Express, Typescript, Deno, MongoDb),  and website application (Next, Typescript, React) </p>
 <p> You can find the repos on my Github here: </p>
 
