@@ -12,21 +12,21 @@ USA 🇺🇸 Orlando, FL
 <p> You can find the repos on my Github here: </p>
 
   <ul>
-    <li><a href="https://github.com/XavierElon/xsj-users-microservice">Node/Express/MongoDb/Typescript User Authentication Microservice</a></li>
+    <li><a href="https://github.com/XavierElon/xsj-consulting-ui">Front End UI built with Next/React/Typescript/Tailwind</a></li>
+    <li><a href="https://github.com/XavierElon/xsj-users-microservice">User Authentication Microservice built with Node/Express/MongoDb/Typescript</a></li>
+    <li><a href="https://github.com/XavierElon/xsj-newsletter-microservice">Small Newsletter Microservice built with Node/Express/MongoDb/Typescript</a></li>
 <!--     <li><a href="https://github.com/XavierElon/xsj-ui-starter-app">Next/React/Typescript Website</a></li> -->
-    <li><a href="https://github.com/XavierElon/xsj-consulting-ui">Next/React/Typescript/Tailwind Front End UI</a></li>
-    <li><a href="https://github.com/XavierElon/xsj-newsletter-microservice">Node/Express/MongoDb/Typescript Small Newsletter Microservice</a></li>
-    <li><a href="https://github.com/XavierElon/xsj-reusable-component-library">React/Next/Typescript Reusable Component Library</a></li>
-    <li><a href="https://github.com/XavierElon/xsj-deno-microservice">Deno/Typescript Microservice</a></li>
+<!--     <li><a href="https://github.com/XavierElon/xsj-reusable-component-library">React/Next/Typescript Reusable Component Library</a></li> -->
+<!--     <li><a href="https://github.com/XavierElon/xsj-deno-microservice">Deno/Typescript Microservice</a></li> -->
   </ul>
 
 Languages, technology and frameworks I am well versed at: 
 <br><br>
 <a href="https://reactjs.org/"><img height="200px" width="300px" align="center" alt="react" src="./public/react.gif" /></a>
-<a href="https://www.typescriptlang.org/"><img height="200px" align="center" alt="next" src="./public/typescript.png"/></a>
+<a href="https://www.typescriptlang.org/"><img height="200px" align="center" alt="typescript" src="./public/typescript.png"/></a>
 <a href="https://javascript.com/"><img height="200px" width="300px" align="center" alt="javascript" src="./public/javascript.png" /></a>
 <a href="https://aws.amazon.com/"><img height="200px" align="center" alt="next" src="./public/aws.gif"/></a>
-<a href="https://www.mongodb.com/"><img height="200px" align="center" alt="next" src="./public/mongo-db.gif"/></a>
+<a href="https://www.mongodb.com/"><img height="200px" align="center" alt="mongodb" src="./public/mongo-db.gif"/></a>
 
 
 
@@ -48,4 +48,5 @@ Languages and tech I have previously used:
 <a href="https://isocpp.org/"><img height="200px" align="center" alt="next" src="./public/c++.jpeg"/></a>
 <a href="https://www.python.org/"><img height="200px" align="center" alt="next" src="./public/python.gif"/></a>
 <a href="https://www.java.com/en/"><img height="200px" align="center" alt="next" src="./public/java.gif"/></a>
+<a href="https://www.postgresql.org/"><img height="200px" align="center" alt="postgresql" src="./public/postgresql.gif"/></a>
 <a href="https://deno.land"><img height="200px" width="300px" align="center" alt="deno" src="./public/deno.webp"/></a>
