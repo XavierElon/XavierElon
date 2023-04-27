@@ -12,11 +12,12 @@ USA 🇺🇸 Orlando, FL
 <p> You can find the repos on my Github here: </p>
 
   <ul>
-    <li><a href="https://github.com/XavierElon/xsj-users-microservice">Node/Express/MongoDb/Typescript Microservice</a></li>
-    <li><a href="https://github.com/XavierElon/xsj-ui-starter-app">Next/React/Typescript Website</a></li>
-    <li><a href="https://github.com/XavierElon/xsj-deno-microservice">Deno/Typescript Microservice</a></li>
-    <li><a href="https://github.com/XavierElon/xsj-newsletter-microservice">Node/Express/MongoDb/Typescript Microservice</a></li>
+    <li><a href="https://github.com/XavierElon/xsj-users-microservice">Node/Express/MongoDb/Typescript User Authentication Microservice</a></li>
+<!--     <li><a href="https://github.com/XavierElon/xsj-ui-starter-app">Next/React/Typescript Website</a></li> -->
+    <li><a href="https://github.com/XavierElon/xsj-consulting-ui">Next/React/Typescript/Tailwind Front End UI</a></li>
+    <li><a href="https://github.com/XavierElon/xsj-newsletter-microservice">Node/Express/MongoDb/Typescript Small Newsletter Microservice</a></li>
     <li><a href="https://github.com/XavierElon/xsj-reusable-component-library">React/Next/Typescript Reusable Component Library</a></li>
+    <li><a href="https://github.com/XavierElon/xsj-deno-microservice">Deno/Typescript Microservice</a></li>
   </ul>
 
 Languages, technology and frameworks I am well versed at: 
@@ -34,7 +35,6 @@ Tech I am currently learning:
 <br><br>
 
 <a href="https://nextjs.org/"><img height="200px" width="300px" align="center" alt="next" src="./public/next.jpeg"/></a>
-<a href="https://deno.land"><img height="200px" width="300px" align="center" alt="deno" src="./public/deno.webp"/></a>
 <a href="https://firebase.google.com/"><img height="200px" width="300px" align="center" alt="firebase" src="./public/firebase.png"/></a>
 <a href="https://tailwindcss.com/"><img height="200px" width="350px" align="center" alt="tailwindcss" src="./public/tailwind.jpg"/></a>
 
@@ -47,3 +47,4 @@ Languages and tech I have previously used:
 <a href="https://isocpp.org/"><img height="200px" align="center" alt="next" src="./public/c++.jpeg"/></a>
 <a href="https://www.python.org/"><img height="200px" align="center" alt="next" src="./public/python.gif"/></a>
 <a href="https://www.java.com/en/"><img height="200px" align="center" alt="next" src="./public/java.gif"/></a>
+<a href="https://deno.land"><img height="200px" width="300px" align="center" alt="deno" src="./public/deno.webp"/></a>
