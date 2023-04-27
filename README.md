@@ -26,6 +26,7 @@ Languages, technology and frameworks I am well versed at:
 <a href="https://www.typescriptlang.org/"><img height="200px" align="center" alt="next" src="./public/typescript.png"/></a>
 <a href="https://javascript.com/"><img height="200px" width="300px" align="center" alt="javascript" src="./public/javascript.png" /></a>
 <a href="https://aws.amazon.com/"><img height="200px" align="center" alt="next" src="./public/aws.gif"/></a>
+<a href="https://www.mongodb.com/"><img height="200px" align="center" alt="next" src="./public/mongo-db.gif"/></a>
 
 
 
