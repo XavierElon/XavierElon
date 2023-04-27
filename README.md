@@ -25,7 +25,7 @@ Languages, technology and frameworks I am well versed at:
 <a href="https://reactjs.org/"><img height="200px" width="300px" align="center" alt="react" src="./public/react.gif" /></a>
 <a href="https://www.typescriptlang.org/"><img height="200px" align="center" alt="typescript" src="./public/typescript.png"/></a>
 <a href="https://javascript.com/"><img height="200px" width="300px" align="center" alt="javascript" src="./public/javascript.png" /></a>
-<a href="https://aws.amazon.com/"><img height="200px" align="center" alt="next" src="./public/aws.gif"/></a>
+<a href="https://aws.amazon.com/"><img height="200px" align="center" alt="aws" src="./public/aws.gif"/></a>
 <a href="https://www.mongodb.com/"><img height="200px" align="center" alt="mongodb" src="./public/mongo-db.gif"/></a>
 
 
@@ -44,9 +44,9 @@ Tech I am currently learning:
 Languages and tech I have previously used: 
 <br><br>
 
-<a href="https://www.learn-c.org/"><img height="200px" align="center" alt="next" src="./public/c.jpeg"/></a>
-<a href="https://isocpp.org/"><img height="200px" align="center" alt="next" src="./public/c++.jpeg"/></a>
-<a href="https://www.python.org/"><img height="200px" align="center" alt="next" src="./public/python.gif"/></a>
-<a href="https://www.java.com/en/"><img height="200px" align="center" alt="next" src="./public/java.gif"/></a>
+<a href="https://www.learn-c.org/"><img height="200px" align="center" alt="c" src="./public/c.jpeg"/></a>
+<a href="https://isocpp.org/"><img height="200px" align="center" alt="c++" src="./public/c++.gif"/></a>
+<a href="https://www.python.org/"><img height="200px" align="center" alt="python" src="./public/python.gif"/></a>
+<a href="https://www.java.com/en/"><img height="200px" align="center" alt="java" src="./public/java.gif"/></a>
 <a href="https://www.postgresql.org/"><img height="200px" align="center" alt="postgresql" src="./public/postgresql.gif"/></a>
 <a href="https://deno.land"><img height="200px" width="300px" align="center" alt="deno" src="./public/deno.webp"/></a>
