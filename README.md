@@ -39,6 +39,7 @@ Tech I am currently learning:
 <a href="https://nextjs.org/"><img height="200px" width="300px" align="center" alt="next" src="./public/next.jpeg"/></a>
 <a href="https://firebase.google.com/"><img height="200px" width="300px" align="center" alt="firebase" src="./public/firebase.png"/></a>
 <a href="https://tailwindcss.com/"><img height="200px" width="350px" align="center" alt="tailwindcss" src="./public/tailwind.jpg"/></a>
+<a href="https://www.heroku.com/"><img height="200px" width="350px" align="center" alt="heroku" src="./public/heroku.png"/></a>
 
 
 <br><br>
