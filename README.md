@@ -3,6 +3,8 @@
 ☢️ 🌍 ~> ⛧ www.xavierelon.com ✨ 
 USA 🇺🇸 Orlando, FL
 
+View my resume at <a href="https://www.xavierelon.com/resume.pdf"> Resume</a>
+<br/>
 
 <p align="center"> 💬 Email me at <b>xavierelon93@gmail.com</b></p>
 
