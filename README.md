@@ -12,9 +12,9 @@ USA 🇺🇸 Orlando, FL
 <p> You can find the repos on my Github here: </p>
 
   <ul>
-    <li><a href="https://xsj-ui.vercel.app/">www.XSJ.com</a><a href="https://github.com/XavierElon/xsj-consulting-ui">[Github Repo] (built with Next/React/Typescript/Tailwind)</a> </li>
-    <li><a href="https://github.com/XavierElon/xsj-users-microservice">User Authentication Microservice built with Node/Express/MongoDb/Typescript</a></li>
-    <li><a href="https://github.com/XavierElon/xsj-newsletter-microservice">Small Newsletter Microservice built with Node/Express/MongoDb/Typescript</a></li>
+    <li><a href="https://xsj-ui.vercel.app/">www.XSJ.com</a><a href="https://github.com/XavierElon/xsj-consulting-ui">  [Github Repo] (built with Next/React/Typescript/Tailwind)</a> </li>
+    <li><a href="https://github.com/XavierElon/xsj-users-microservice">[Github Repo] (User Authentication Microservice built with Node/Express/MongoDb/Typescript</a></li>
+    <li><a href="https://github.com/XavierElon/xsj-newsletter-microservice">[Github Repo] (Small Newsletter Microservice built with Node/Express/MongoDb/Typescript)</a></li>
 <!--     <li><a href="https://github.com/XavierElon/xsj-ui-starter-app">Next/React/Typescript Website</a></li> -->
 <!--     <li><a href="https://github.com/XavierElon/xsj-reusable-component-library">React/Next/Typescript Reusable Component Library</a></li> -->
 <!--     <li><a href="https://github.com/XavierElon/xsj-deno-microservice">Deno/Typescript Microservice</a></li> -->
