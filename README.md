@@ -31,6 +31,7 @@ Languages, technology and frameworks I am well versed at:
 <a href="https://aws.amazon.com/"><img height="200px" align="center" alt="aws" src="./public/aws.gif"/></a>
 <a href="https://www.mongodb.com/"><img height="200px" align="center" alt="mongodb" src="./public/mongo-db.gif"/></a>
 <a href="https://nodejs.org/en"><img height="200px" align="center" alt="nodejs" src="./public/nodejs.gif"/></a>
+<a href="https://www.postgresql.org/"><img height="200px" align="center" alt="postgresql" src="./public/postgresql.gif"/></a>
 
 
 
@@ -53,5 +54,4 @@ Languages and tech I have previously used:
 <a href="https://isocpp.org/"><img height="200px" align="center" alt="c++" src="./public/c++.gif"/></a>
 <a href="https://www.python.org/"><img height="200px" align="center" alt="python" src="./public/python.gif"/></a>
 <a href="https://www.java.com/en/"><img height="200px" align="center" alt="java" src="./public/java.gif"/></a>
-<a href="https://www.postgresql.org/"><img height="200px" align="center" alt="postgresql" src="./public/postgresql.gif"/></a>
 <a href="https://deno.land"><img height="200px" width="300px" align="center" alt="deno" src="./public/deno.webp"/></a>
