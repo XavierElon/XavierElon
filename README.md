@@ -55,6 +55,5 @@ Languages and tech I have previously used:
 
 <a href="https://www.learn-c.org/"><img height="200px" align="center" alt="c" src="./public/c.jpeg"/></a>
 <a href="https://isocpp.org/"><img height="200px" align="center" alt="c++" src="./public/c++.gif"/></a>
-
 <a href="https://www.java.com/en/"><img height="200px" align="center" alt="java" src="./public/java.gif"/></a>
 <a href="https://deno.land"><img height="200px" width="300px" align="center" alt="deno" src="./public/deno.webp"/></a>
