@@ -11,12 +11,14 @@ View my <a href="https://www.xavierelon.com/resume.pdf">resume</a> <p align="rig
 
 <br><br>
 
-<p> I am currently the lead engineer/architect with 3 other engineer friends building the microservices (Node, Express, Typescript, Deno, MongoDb),  and website application (Next, Typescript, React) </p>
+<p>I am currently a student at Georgia Tech pursuing my masters in the <a href="https://omscs.gatech.edu/current-courses">[OMSCS] specializing in AI and Machine Learning.</a></p>
+
+<p> I am currently working on building microservices (Node, Express, Typescript, Deno, MongoDb) and a website application (Next, Typescript, React, Firebase, Firestore) that allows users to sign up/authenticate/authorize then chat with their friends or ChatGPT. It is a full stack application hosted on the Cloud.</p>
 <p> You can find the repos on my Github here: </p>
 
   <ul>
-    <li><a href="https://xsj-ui.vercel.app/">www.XSJ.com</a><a href="https://github.com/XavierElon/xsj-consulting-ui">  [Github Repo] (built with Next/React/Typescript/Tailwind)</a> </li>
-    <li><a href="https://github.com/XavierElon/xsj-users-microservice">[Github Repo] (User Authentication Microservice built with Node/Express/MongoDb/Typescript</a></li>
+    <li><a href="https://xsj-ui.vercel.app/">www.XSJ.com</a><a href="https://github.com/XavierElon/xsj-consulting-ui">[Github Repo] (built with Next/React/Typescript/Tailwind)</a> </li>
+    <li><a href="https://github.com/XavierElon/xsj-users-microservice">[Github Repo] (User Authentication Microservice built with Node/Express/MongoDb/Typescript)</a></li>
     <li><a href="https://github.com/XavierElon/xsj-newsletter-microservice">[Github Repo] (Small Newsletter Microservice built with Node/Express/MongoDb/Typescript)</a></li>
 <!--     <li><a href="https://github.com/XavierElon/xsj-ui-starter-app">Next/React/Typescript Website</a></li> -->
 <!--     <li><a href="https://github.com/XavierElon/xsj-reusable-component-library">React/Next/Typescript Reusable Component Library</a></li> -->
