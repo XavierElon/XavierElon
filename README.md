@@ -11,7 +11,7 @@ View my <a href="https://www.xavierelon.com/resume.pdf">resume</a> <p align="rig
 
 <br><br>
 
-<p>I am currently a student at Georgia Tech pursuing my masters in the <a href="https://omscs.gatech.edu/current-courses">[OMSCS] specializing in AI and Machine Learning.</a></p>
+<p>I am currently a student at Georgia Tech pursuing my masters in the <a href="https://omscs.gatech.edu/current-courses">[OMSCS]</a> specializing in AI and Machine Learning.</p>
 
 <p> I am currently working on building microservices (Node, Express, Typescript, Deno, MongoDb) and a website application (Next, Typescript, React, Firebase, Firestore) that allows users to sign up/authenticate/authorize then chat with their friends or ChatGPT. It is a full stack application hosted on the Cloud.</p>
 <p> You can find the repos on my Github here: </p>
