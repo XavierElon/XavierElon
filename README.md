@@ -30,10 +30,12 @@ Languages, technology and frameworks I am well versed at:
 <a href="https://reactjs.org/"><img height="200px" width="300px" align="center" alt="react" src="./public/react.gif" /></a>
 <a href="https://www.typescriptlang.org/"><img height="200px" align="center" alt="typescript" src="./public/typescript.png"/></a>
 <a href="https://javascript.com/"><img height="200px" width="300px" align="center" alt="javascript" src="./public/javascript.gif" /></a>
-<a href="https://aws.amazon.com/"><img height="200px" align="center" alt="aws" src="./public/aws.gif"/></a>
+<a href="https://www.python.org/"><img height="200px" align="center" alt="python" src="./public/python.gif"/></a>
+<a href="https://cloud.google.com/"><img height="200px" width="350px" align="center" alt="gcp" src="./public/gcp.png"/></a>
 <a href="https://www.mongodb.com/"><img height="200px" align="center" alt="mongodb" src="./public/mongo-db.gif"/></a>
 <a href="https://nodejs.org/en"><img height="200px" align="center" alt="nodejs" src="./public/nodejs.gif"/></a>
 <a href="https://www.postgresql.org/"><img height="200px" align="center" alt="postgresql" src="./public/postgresql.gif"/></a>
+<a href="https://aws.amazon.com/"><img height="200px" align="center" alt="aws" src="./public/aws.gif"/></a>
 <a href="https://tailwindcss.com/"><img height="200px" width="350px" align="center" alt="tailwindcss" src="./public/tailwind.jpg"/></a>
 
 
@@ -44,9 +46,7 @@ Tech I am currently learning:
 <br><br>
 
 <a href="https://nextjs.org/"><img height="200px" width="300px" align="center" alt="next" src="./public/next.jpeg"/></a>
-<a href="https://cloud.google.com/"><img height="200px" width="350px" align="center" alt="gcp" src="./public/gcp.png"/></a>
 <a href="https://firebase.google.com/"><img height="200px" width="300px" align="center" alt="firebase" src="./public/firebase.png"/></a>
-<a href="https://www.python.org/"><img height="200px" align="center" alt="python" src="./public/python.gif"/></a>
 <a href="https://go.dev/"><img height="200px" width="350px" align="center" alt="go" src="./public/golang.png"/></a>
 <a href="https://www.heroku.com/"><img height="200px" width="350px" align="center" alt="heroku" src="./public/heroku.png"/></a>
 
@@ -57,5 +57,5 @@ Languages and tech I have previously used:
 
 <a href="https://www.learn-c.org/"><img height="200px" align="center" alt="c" src="./public/c.jpeg"/></a>
 <a href="https://isocpp.org/"><img height="200px" align="center" alt="c++" src="./public/c++.gif"/></a>
-# <a href="https://www.java.com/en/"><img height="200px" align="center" alt="java" src="./public/java.gif"/></a>
+<!-- <a href="https://www.java.com/en/"><img height="200px" align="center" alt="java" src="./public/java.gif"/></a> -->
 <a href="https://deno.land"><img height="200px" width="300px" align="center" alt="deno" src="./public/deno.webp"/></a>
