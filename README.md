@@ -48,7 +48,7 @@ Tech I am currently learning:
 
 <a href="https://nextjs.org/"><img height="200px" width="300px" align="center" alt="next" src="./public/next.jpeg"/></a>
 <a href="https://firebase.google.com/"><img height="200px" width="300px" align="center" alt="firebase" src="./public/firebase.png"/></a>
-<a href="https://go.dev/"><img height="200px" width="350px" align="center" alt="go" src="./public/golang.png"/></a>
+<a href="https://go.dev/"><img height="200px" width="350px" align="center" alt="go" src="./public/go-gif.gif"/></a>
 <a href="https://www.heroku.com/"><img height="200px" width="350px" align="center" alt="heroku" src="./public/heroku.png"/></a>
 
 
