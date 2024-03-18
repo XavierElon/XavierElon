@@ -32,7 +32,7 @@ Languages, technology and frameworks I am well versed at:
 <a href="https://javascript.com/"><img height="200px" width="300px" align="center" alt="javascript" src="./public/javascript.gif" /></a>
 <a href="https://www.python.org/"><img height="200px" align="center" alt="python" src="./public/python.gif"/></a>
 <a href="https://angular.io/"><img height="200px" width="300px" align="center" alt="react" src="./public/angular-image.gif" /></a>
-<a href="https://cloud.google.com/"><img height="200px" width="350px" align="center" alt="gcp" src="./public/gcp.png"/></a>
+<a href="https://cloud.google.com/"><img height="200px" width="350px" align="center" alt="gcp" src="./public/gcp-gif.gif"/></a>
 <a href="https://www.mongodb.com/"><img height="200px" align="center" alt="mongodb" src="./public/mongo-db.gif"/></a>
 <a href="https://nodejs.org/en"><img height="200px" align="center" alt="nodejs" src="./public/node-gif.gif"/></a>
 <a href="https://www.postgresql.org/"><img height="200px" align="center" alt="postgresql" src="./public/postgresql.gif"/></a>
