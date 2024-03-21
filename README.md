@@ -7,6 +7,8 @@ View my <a href="https://www.xavierelon.com/resume.pdf">resume</a> <p align="rig
 
 <br/>
 
+View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align="left"> 
+
 <p align="center"> 💬 Email me at <b>xavierelon93@gmail.com</b></p>
 
 <br><br>
