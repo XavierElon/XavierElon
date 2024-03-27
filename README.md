@@ -33,7 +33,6 @@ Languages, technology and frameworks I am well versed at:
 <a href="https://www.typescriptlang.org/"><img height="200px" align="center" alt="typescript" src="./public/typescript.png"/></a>
 <a href="https://javascript.com/"><img height="200px" width="300px" align="center" alt="javascript" src="./public/javascript.gif" /></a>
 <a href="https://www.python.org/"><img height="200px" align="center" alt="python" src="./public/python.gif"/></a>
-<a href="https://angular.io/"><img height="200px" width="300px" align="center" alt="react" src="./public/angular-image.gif" /></a>
 <a href="https://cloud.google.com/"><img height="200px" width="350px" align="center" alt="gcp" src="./public/gcp-gif.gif"/></a>
 <a href="https://www.mongodb.com/"><img height="200px" align="center" alt="mongodb" src="./public/mongo-db.gif"/></a>
 <a href="https://nodejs.org/en"><img height="200px" align="center" alt="nodejs" src="./public/node-gif.gif"/></a>
@@ -47,7 +46,7 @@ Languages, technology and frameworks I am well versed at:
 <br><br>
 Tech I am currently learning:
 <br><br>
-
+<a href="https://angular.io/"><img height="200px" width="300px" align="center" alt="angular" src="./public/angular-image.gif"/> </a>
 <a href="https://nextjs.org/"><img height="200px" width="300px" align="center" alt="next" src="./public/next.jpeg"/></a>
 <a href="https://firebase.google.com/"><img height="200px" width="300px" align="center" alt="firebase" src="./public/firebase.png"/></a>
 <a href="https://go.dev/"><img height="200px" width="350px" align="center" alt="go" src="./public/go-gif.gif"/></a>
