@@ -15,6 +15,8 @@ View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align
 
 <p>I am currently a student at Georgia Tech pursuing my masters in the <a href="https://omscs.gatech.edu/current-courses">OMSCS</a> specializing in AI and Machine Learning.</p>
 
+My Github Breakdown:
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavierElon&layout=pie)](https://github.com/XavierElon/github-readme-stats)
 
 <br />
