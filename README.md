@@ -15,7 +15,7 @@ View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align
 
 <p>I am currently a student at Georgia Tech pursuing my masters in the <a href="https://omscs.gatech.edu/current-courses">OMSCS</a> specializing in AI and Machine Learning.</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavierElon)](https://github.com/XavierElon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavierElon&layout=pie)](https://github.com/XavierElon/github-readme-stats)
 
 <p> I am currently working on building microservices (Node, Express, Typescript, Deno, MongoDb) and a website application (Next, Typescript, React, Firebase, Firestore) that allows users to sign up/authenticate/authorize then chat with their friends or ChatGPT. It is a full stack application hosted on the Cloud.</p>
 <p> You can find the repos on my Github here: </p>
