@@ -17,6 +17,8 @@ View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavierElon&layout=pie)](https://github.com/XavierElon/github-readme-stats)
 
+[![XavierElon's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=XavierElon)](https://github.com/XavierElon/leetcode-stats)
+
 <p> I am currently working on building microservices (Node, Express, Typescript, Deno, MongoDb) and a website application (Next, Typescript, React, Firebase, Firestore) that allows users to sign up/authenticate/authorize then chat with their friends or ChatGPT. It is a full stack application hosted on the Cloud.</p>
 <p> You can find the repos on my Github here: </p>
 
