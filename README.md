@@ -47,6 +47,7 @@ Languages, technology and frameworks I am well versed at:
 <a href="https://cloud.google.com/"><img height="200px" width="350px" align="center" alt="gcp" src="./public/gcp-gif.gif"/></a>
 <a href="https://www.mongodb.com/"><img height="200px" align="center" alt="mongodb" src="./public/mongo-db.gif"/></a>
 <a href="https://nodejs.org/en"><img height="200px" align="center" alt="nodejs" src="./public/node-gif.gif"/></a>
+<a href="https://docker.com/"><img height="200px" width="300px" align="center" alt="docker" src="./public/docker.gif" /></a>
 <a href="https://www.postgresql.org/"><img height="200px" align="center" alt="postgresql" src="./public/postgresql.gif"/></a>
 <a href="https://aws.amazon.com/"><img height="200px" align="center" alt="aws" src="./public/aws.gif"/></a>
 <a href="https://tailwindcss.com/"><img height="200px" width="350px" align="center" alt="tailwindcss" src="./public/tailwind.jpg"/></a>
