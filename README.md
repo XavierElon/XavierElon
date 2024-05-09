@@ -41,7 +41,7 @@ My Leetcode stats:
 Languages, technology and frameworks I am well versed at: 
 <br><br>
 <a href="https://reactjs.org/"><img height="200px" width="300px" align="center" alt="react" src="./public/react.gif" /></a>
-<a href="https://www.typescriptlang.org/"><img height="200px" align="center" alt="typescript" src="./public/typescript.png"/></a>
+<a href="https://www.typescriptlang.org/"><img height="200px" align="center" alt="typescript" src="./public/typescript.gif"/></a>
 <a href="https://javascript.com/"><img height="200px" width="300px" align="center" alt="javascript" src="./public/javascript.gif" /></a>
 <a href="https://www.python.org/"><img height="200px" align="center" alt="python" src="./public/python.gif"/></a>
 <a href="https://cloud.google.com/"><img height="200px" width="350px" align="center" alt="gcp" src="./public/gcp-gif.gif"/></a>
