@@ -41,7 +41,7 @@ My Leetcode stats:
 <!--[![XavierElon's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=XavierElon&theme=dark)](https://github.com/XavierElon) -->
 <p align="center">
   <a href="https://github.com/XavierElon/LeetCode-Stats-Card" target="_blank">
-    <img title="XavierElon's LeetCode Stats" alt="XavierElon's LeetCode Stats" src="https://leetcard.jacoblin.cool/XavierElon?theme=unicorn&font=Paprika&ext=activity" />
+    <img title="XavierElon's LeetCode Stats" alt="XavierElon's LeetCode Stats" src="https://leetcard.jacoblin.cool/XavierElon?theme=unicorn&font=Courier%20Prime&ext=activity" />
   </a>
 </p>
 
