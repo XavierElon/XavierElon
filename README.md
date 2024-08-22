@@ -40,7 +40,9 @@ My Leetcode stats:
 
 <!--[![XavierElon's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=XavierElon&theme=dark)](https://github.com/XavierElon) -->
 <p align="center">
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/XavierElon?theme=unicorn&font=Courier%20Prime&ext=activity)
+  <a href="https://github.com/XavierElon/LeetCode-Stats-Card" target="_blank">
+    <img title="XavierElon's LeetCode Stats" alt="XavierElon's LeetCode Stats" src="https://leetcard.jacoblin.cool/XavierElon?theme=unicorn&font=Paprika&ext=activity" />
+  </a>
 </p>
 
 <p> I am currently working on building microservices (Node, Express, Typescript, Deno, MongoDb) and a website application (Next, Typescript, React, Firebase, Firestore) that allows users to sign up/authenticate/authorize then chat with their friends or ChatGPT. It is a full stack application hosted on the Cloud.</p>
