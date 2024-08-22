@@ -1,7 +1,7 @@
  **Fullstack** developer. **Currently working at Booz Allen as a Full-Stack Senior Sotware Engineer**
 
 ☢️ 🌍 ~> ⛧ www.xavierelon.com ✨ 
-USA 🇺🇸 Orlando, FL
+USA 🇺🇸
 
 View my <a href="https://www.xavierelon.com/resume.pdf">resume</a> <p align="right"> Connect with me on <a href="https://www.linkedin.com/in/xavierelon/">LinkedIn</a></p>
 
