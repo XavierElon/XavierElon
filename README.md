@@ -21,6 +21,18 @@ My Github Breakdown:
 
 <br />
 
+<p align="center">
+  <a href="https://github.com/XaiverElon?tab=repositories">
+    <img title="XavierElon's Github Stats" alt="XavierElon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=XavierElon&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats" />
+  </a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/XavierElon#user-activity-overview">
+    <img title="XavierElon's Github Streak" alt="XavierElon's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=XavierElon" />
+  </a>
+</p>
+
 My Leetcode stats:
 <br />
 
