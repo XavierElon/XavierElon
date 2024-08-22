@@ -18,7 +18,9 @@ View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align
 My Github Breakdown:
 <br />
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavierElon&layout=pie)](https://github.com/XavierElon/github-readme-stats)
+  <a href="https://github.com/XavierElon/github-readme-stats">
+    <img title="XavierElon's Top Github Languages" alt="XavierElon's Top Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierElon&layout=pie" />
+  </a>
 </p>
 
 <br />
@@ -38,7 +40,6 @@ My Github Breakdown:
 My Leetcode stats:
 <br />
 
-<!--[![XavierElon's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=XavierElon&theme=dark)](https://github.com/XavierElon) -->
 <p align="center">
   <a href="https://github.com/XavierElon/LeetCode-Stats-Card" target="_blank">
     <img title="XavierElon's LeetCode Stats" alt="XavierElon's LeetCode Stats" src="https://leetcard.jacoblin.cool/XavierElon?theme=unicorn&font=Courier%20Prime&ext=activity" />
