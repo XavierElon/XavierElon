@@ -40,7 +40,7 @@ My Github Breakdown:
 My WakaTime/Developer Stats:
 <p align="center">
   <a href="https://wakatime.com/@XavierElon">
-    <img title="XavierElon's WakaTime Stats" alt="XavierElon's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=xavierelon&theme=cobalt" />
+    <img title="XavierElon's WakaTime Stats" alt="XavierElon's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=cobalt" />
   </a>
 </p>
 
