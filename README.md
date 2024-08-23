@@ -33,7 +33,7 @@ My Github Breakdown:
   
 <p align="center">
   <a href="https://github.com/XavierElon#user-activity-overview">
-    <img title="XavierElon's Github Streak" alt="XavierElon's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=XavierElon" />
+    <img title="XavierElon's Github Streak" alt="XavierElon's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=XavierElon&theme=cobalt" />
   </a>
 </p>
 
