@@ -18,7 +18,7 @@ View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align
 My Github Breakdown:
 <br />
 <p align="center">
-  <a href="https://github.com/XavierElon/github-readme-stats">
+  <a href="https://github.com/XavierElon/">
     <img title="XavierElon's Top Github Languages" alt="XavierElon's Top Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierElon&layout=donut-vertical&theme=cobalt" />
   </a>
 </p>
@@ -26,7 +26,7 @@ My Github Breakdown:
 <br />
 
 <p align="center">
-  <a href="https://github.com/XaiverElon?tab=repositories">
+  <a href="https://github.com/XaiverElon">
     <img title="XavierElon's Github Stats" alt="XavierElon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=XavierElon&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&theme=cobalt" />
   </a>
 </p>
@@ -34,6 +34,13 @@ My Github Breakdown:
 <p align="center">
   <a href="https://github.com/XavierElon#user-activity-overview">
     <img title="XavierElon's Github Streak" alt="XavierElon's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=XavierElon&theme=cobalt" />
+  </a>
+</p>
+
+My WakaTime/Developer Stats:
+<p align="center">
+  <a href="https://wakatime.com/@XavierElon">
+    <img title="XavierElon's WakaTime Stats" alt="XavierElon's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=xavierelon&theme=cobalt" />
   </a>
 </p>
 
