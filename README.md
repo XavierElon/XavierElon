@@ -19,7 +19,7 @@ My Github Breakdown:
 <br />
 <p align="center">
   <a href="https://github.com/XavierElon/github-readme-stats">
-    <img title="XavierElon's Top Github Languages" alt="XavierElon's Top Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierElon&layout=pie" />
+    <img title="XavierElon's Top Github Languages" alt="XavierElon's Top Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierElon&layout=donut-vertical&theme=cobalt" />
   </a>
 </p>
 
