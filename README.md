@@ -27,7 +27,7 @@ My Github Breakdown:
 
 <p align="center">
   <a href="https://github.com/XaiverElon">
-    <img title="XavierElon's Github Stats" alt="XavierElon's Github Stats" src="https://github-readme-stats-xavierelons-projects.vercel.app/api?username=XavierElon&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&number_format=long&show=prs_merged,pr_merged_percentage,reviews,discussions_started&theme=cobalt" />
+    <img title="XavierElon's Github Stats" alt="XavierElon's Github Stats" src="https://github-readme-stats-xavierelons-projects.vercel.app/api?username=XavierElon&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&number_format=long&show=prs_merged,pr_merged_percentage&theme=cobalt" />
   </a>
 </p>
   
