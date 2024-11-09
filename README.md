@@ -1,7 +1,9 @@
- **Fullstack** developer. **Currently working at Booz Allen as a Full-Stack Senior Sotware Engineer**
+ **Fullstack** developer. **Actively looking for a new job in San Francisco**
+ 
+ **Currently working at Booz Allen as a Full-Stack Senior Sotware Engineer**
 
-☢️ 🌍 ~> ⛧ www.xavierelon.com ✨ 
-USA 🇺🇸
+☢️ 🌍 ~> ⛧ [www.xavierelon.com](https://xavierelon-portfolio.vercel.app/) ✨ 
+USA 🇺🇸 San Francisco
 
 View my <a href="https://www.xavierelon.com/resume.pdf">resume</a> <p align="right"> Connect with me on <a href="https://www.linkedin.com/in/xavierelon/">LinkedIn</a></p>
 
@@ -14,6 +16,8 @@ View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align
 <br><br>
 
 <p>I am currently a student at Georgia Tech pursuing my masters in the <a href="https://omscs.gatech.edu/current-courses">OMSCS</a> specializing in AI and Machine Learning.</p>
+
+<img src="https://raw.githubusercontent.com/xavierelon/xavierelon/output/snake.svg" alt="Snake animation" />
 
 My Github Breakdown:
 <br />
