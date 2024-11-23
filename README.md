@@ -4,9 +4,9 @@
 
 ☢️ 🌍 ~> ⛧ [www.xavierelon.com](https://xavierelon-portfolio.vercel.app/) ✨ 
 USA 🇺🇸 San Francisco
-<div align='right'>
-Visitors
-![Visitor Count](https://profile-counter.glitch.me/{xavierelon}/count.svg)
+<div align="right">
+  Visitors:
+  <img src="https://profile-counter.glitch.me/xavierelon/count.svg?"  />
 </div>
 
 
