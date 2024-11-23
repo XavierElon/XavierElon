@@ -4,8 +4,10 @@
 
 ☢️ 🌍 ~> ⛧ [www.xavierelon.com](https://xavierelon-portfolio.vercel.app/) ✨ 
 USA 🇺🇸 San Francisco
-
+<div align='right'>
+Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{xavierelon}/count.svg)
+</div>
 
 
 View my <a href="https://xavierelon.github.io/resume/resume.pdf">resume</a> <p align="right"> Connect with me on <a href="https://www.linkedin.com/in/xavierelon/">LinkedIn</a></p>
