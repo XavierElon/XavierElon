@@ -1,4 +1,4 @@
- **Fullstack** developer. **Actively looking for a new job in San Francisco**
+ **Fullstack**= Software Engineer. **Actively looking for a new job in San Francisco at a startup or in tech**
  
  **Currently working at Booz Allen as a Full-Stack Senior Sotware Engineer**
 
