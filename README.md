@@ -42,13 +42,13 @@ View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align
 
 <h3 align="left">Technologies, Tools and Frameworks:</h3>
 <div align="left">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40" alt="aws logo"  />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" height="40" alt="aws logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" height="40" alt="vercel logo"  />
   <img width="12" />
