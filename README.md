@@ -26,17 +26,17 @@ View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align
 
 <h3 align="left">Languages:</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="40" alt="typescript logo"  />
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" height="40" alt="go logo"  />
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" height="40" alt="go logo"  />
   <img width="12" />
 </div>
 
@@ -87,15 +87,15 @@ View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align
 
 <p>I am currently building:</p>
 <ul>
-    <li><a href="www.xavierelon.com">www.xavierelon.com</a> &NBSP <a href="https://github.com/XavierElon/xavierelon-portfolio">  [Github Repo] (built with Next/React/Typescript/Tailwind)</a> </li>
-    <li><a href="xavierelon-v3.vercel.app">xavierelon-v3.vercel.app</a><a href="https://github.com/XavierElon/xavierelon-v3">  [Github Repo] (built with Next/React/Typescript/Tailwind)</a> </li>
+    <li><a href="www.xavierelon.com">www.xavierelon.com</a>  <a href="https://github.com/XavierElon/xavierelon-portfolio">  [Github Repo] </a>(built with Next/React/Typescript/Tailwind)</li>
+    <li><a href="xavierelon-v3.vercel.app">xavierelon-v3.vercel.app</a>     <a href="https://github.com/XavierElon/xavierelon-v3">  [Github Repo] </a>(built with Next/React/Typescript/Tailwind)</li>
 </ul>
 
 <p>Some ML Projects I have built</p>
 <ul>
-    <li><a href="https://xsj-ui.vercel.app/">www.XSJ.com</a><a href="https://github.com/XavierElon/xsj-consulting-ui">  [Github Repo] (built with Next/React/Typescript/Tailwind)</a> </li>
-    <li><a href="https://xsj-ui.vercel.app/">www.XSJ.com</a><a href="https://github.com/XavierElon/xsj-consulting-ui">  [Github Repo] (built with Next/React/Typescript/Tailwind)</a> </li>
-    <li><a href="https://xsj-ui.vercel.app/">www.XSJ.com</a><a href="https://github.com/XavierElon/xsj-consulting-ui">  [Github Repo] (built with Next/React/Typescript/Tailwind)</a> </li>
+    <li><a href="https://github.com/XavierElon/ML-supervised-learning">[Github Repo]</a>Supervised Learning</li>
+    <li><a href="https://github.com/XavierElon/ML-unsupervised-learning">[Github Repo]</a>Unsupervised Learning</li>
+    <li><a href="https://github.com/XavierElon/ML-randomized-optimization">[Github Repo]</a>Ranomized Optimization</li>
 </ul>
 
 <p> I have previously built microservices (Node, Express, Typescript, Deno, MongoDb) and a website application (Next, Typescript, React, Firebase, Firestore) that allows users to sign up/authenticate/authorize then chat with their friends or ChatGPT. It is a full stack application hosted on the Cloud.</p>
