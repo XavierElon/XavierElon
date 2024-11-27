@@ -12,7 +12,13 @@ USA 🇺🇸 San Francisco
 - 🌱 I’m currently learning **Machine Learning/Deep Learning** to become a Machine Learning Engineer
 
 
-View my <a href="https://xavierelon.github.io/resume/resume.pdf">resume</a> <p align="right"> Connect with me on <a href="https://www.linkedin.com/in/xavierelon/">LinkedIn</a></p>
+View my <a href="https://xavierelon.github.io/resume/resume.pdf">resume</a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/xavierelon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nakuldevmv" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nxavierelon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xavierelon" height="30" width="40" /></a>
+</p>
 
 <br/>
 
