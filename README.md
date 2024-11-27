@@ -1,4 +1,4 @@
- **Fullstack**= Software Engineer. **Actively looking for a new job in San Francisco at a startup or in tech**
+ **Fullstack** Software Engineer. **Actively looking for a new job in San Francisco at a startup or in tech**
  
  **Currently working at Booz Allen as a Full-Stack Senior Sotware Engineer**
 
@@ -8,6 +8,8 @@ USA 🇺🇸 San Francisco
   Visitors:
   <img src="https://profile-counter.glitch.me/xavierelon/count.svg?"  />
 </div>
+
+- 🌱 I’m currently learning **Machine Learning/Deep Learning** to become a Machine Learning Engineer
 
 
 View my <a href="https://xavierelon.github.io/resume/resume.pdf">resume</a> <p align="right"> Connect with me on <a href="https://www.linkedin.com/in/xavierelon/">LinkedIn</a></p>
@@ -21,6 +23,92 @@ View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align
 <br><br>
 
 <p>I am currently a student at Georgia Tech pursuing my masters in the <a href="https://omscs.gatech.edu/current-courses">OMSCS</a> specializing in AI and Machine Learning.</p>
+
+<h3 align="left">Languages:</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" height="40" alt="go logo"  />
+  <img width="12" />
+</div>
+
+<h3 align="left">Technologies, Tools and Frameworks:</h3>
+<div align="left">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" height="40" alt="tailwind logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" height="40" alt="angular logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" height="40" alt="next logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="40" alt="postgres logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" height="40" alt="nest logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="gcp logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/deno/deno-ar21~v1.svg" height="40" alt="deno logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/bunsh/bunsh-icon.svg" height="40" alt="bun logo"  />
+  <img width="12" />
+</div>
+
+
+<p>I am currently building:</p>
+<ul>
+    <li><a href="www.xavierelon.com">www.xavierelon.com</a><a href="https://github.com/XavierElon/xavierelon-portfolio">  [Github Repo] (built with Next/React/Typescript/Tailwind)</a> </li>
+    <li><a href="xavierelon-v3.vercel.app">xavierelon-v3.vercel.app</a><a href="https://github.com/XavierElon/xavierelon-v3">  [Github Repo] (built with Next/React/Typescript/Tailwind)</a> </li>
+</ul>
+
+<p>Some ML Projects I have built</p>
+<ul>
+    <li><a href="https://xsj-ui.vercel.app/">www.XSJ.com</a><a href="https://github.com/XavierElon/xsj-consulting-ui">  [Github Repo] (built with Next/React/Typescript/Tailwind)</a> </li>
+    <li><a href="https://xsj-ui.vercel.app/">www.XSJ.com</a><a href="https://github.com/XavierElon/xsj-consulting-ui">  [Github Repo] (built with Next/React/Typescript/Tailwind)</a> </li>
+    <li><a href="https://xsj-ui.vercel.app/">www.XSJ.com</a><a href="https://github.com/XavierElon/xsj-consulting-ui">  [Github Repo] (built with Next/React/Typescript/Tailwind)</a> </li>
+</ul>
+
+<p> I have previously built microservices (Node, Express, Typescript, Deno, MongoDb) and a website application (Next, Typescript, React, Firebase, Firestore) that allows users to sign up/authenticate/authorize then chat with their friends or ChatGPT. It is a full stack application hosted on the Cloud.</p>
+<p> You can find the repos on my Github here: </p>
+
+  <ul>
+    <li><a href="https://xsj-ui.vercel.app/">www.XSJ.com</a><a href="https://github.com/XavierElon/xsj-consulting-ui">  [Github Repo] (built with Next/React/Typescript/Tailwind)</a> </li>
+    <li><a href="https://github.com/XavierElon/xsj-users-microservice">[Github Repo] (User Authentication Microservice built with Node/Express/MongoDb/Typescript)</a></li>
+    <li><a href="https://github.com/XavierElon/xsj-newsletter-microservice">[Github Repo] (Small Newsletter Microservice built with Node/Express/MongoDb/Typescript)</a></li>
+<!--     <li><a href="https://github.com/XavierElon/xsj-ui-starter-app">Next/React/Typescript Website</a></li> -->
+<!--     <li><a href="https://github.com/XavierElon/xsj-reusable-component-library">React/Next/Typescript Reusable Component Library</a></li> -->
+<!--     <li><a href="https://github.com/XavierElon/xsj-deno-microservice">Deno/Typescript Microservice</a></li> -->
+  </ul>
 
 <img src="https://raw.githubusercontent.com/xavierelon/xavierelon/output/snake.svg" alt="Snake animation" />
 
@@ -62,18 +150,7 @@ My Leetcode stats:
   </a>
 </p>
 
-<p> I am currently working on building microservices (Node, Express, Typescript, Deno, MongoDb) and a website application (Next, Typescript, React, Firebase, Firestore) that allows users to sign up/authenticate/authorize then chat with their friends or ChatGPT. It is a full stack application hosted on the Cloud.</p>
-<p> You can find the repos on my Github here: </p>
-
-  <ul>
-    <li><a href="https://xsj-ui.vercel.app/">www.XSJ.com</a><a href="https://github.com/XavierElon/xsj-consulting-ui">  [Github Repo] (built with Next/React/Typescript/Tailwind)</a> </li>
-    <li><a href="https://github.com/XavierElon/xsj-users-microservice">[Github Repo] (User Authentication Microservice built with Node/Express/MongoDb/Typescript)</a></li>
-    <li><a href="https://github.com/XavierElon/xsj-newsletter-microservice">[Github Repo] (Small Newsletter Microservice built with Node/Express/MongoDb/Typescript)</a></li>
-<!--     <li><a href="https://github.com/XavierElon/xsj-ui-starter-app">Next/React/Typescript Website</a></li> -->
-<!--     <li><a href="https://github.com/XavierElon/xsj-reusable-component-library">React/Next/Typescript Reusable Component Library</a></li> -->
-<!--     <li><a href="https://github.com/XavierElon/xsj-deno-microservice">Deno/Typescript Microservice</a></li> -->
-  </ul>
-
+<!--
 Languages, technology and frameworks I am well versed at: 
 <br><br>
 <a href="https://reactjs.org/"><img height="200px" width="300px" align="center" alt="react" src="./public/react.gif" /></a>
@@ -99,13 +176,14 @@ Tech I am currently learning:
 <a href="https://firebase.google.com/"><img height="200px" width="300px" align="center" alt="firebase" src="./public/firebase.png"/></a>
 <a href="https://go.dev/"><img height="200px" width="350px" align="center" alt="go" src="./public/go-gif.gif"/></a>
 <a href="https://www.heroku.com/"><img height="200px" width="350px" align="center" alt="heroku" src="./public/heroku.png"/></a>
+-->
 
-
+<!--
 <br><br>
 Languages and tech I have previously used: 
 <br><br>
 
 <a href="https://www.learn-c.org/"><img height="200px" align="center" alt="c" src="./public/c.jpeg"/></a>
 <a href="https://isocpp.org/"><img height="200px" align="center" alt="c++" src="./public/c++.gif"/></a>
-<!-- <a href="https://www.java.com/en/"><img height="200px" align="center" alt="java" src="./public/java.gif"/></a> -->
-<a href="https://deno.land"><img height="200px" width="300px" align="center" alt="deno" src="./public/deno.webp"/></a>
+<a href="https://www.java.com/en/"><img height="200px" align="center" alt="java" src="./public/java.gif"/></a>
+<a href="https://deno.land"><img height="200px" width="300px" align="center" alt="deno" src="./public/deno.webp"/></a> -->
