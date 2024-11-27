@@ -54,13 +54,13 @@ View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" height="40" alt="tailwind logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="40" alt="react logo"  />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" height="40" alt="angular logo"  />
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" height="40" alt="angular logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" height="40" alt="next logo"  />
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" height="40" alt="next logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="40" alt="postgres logo"  />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="40" alt="postgres logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" height="40" alt="numpy logo"  />
   <img width="12" />
@@ -68,19 +68,19 @@ View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="40" alt="linux logo"  />
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="40" alt="github logo"  />
+  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="gcp logo"  />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" height="40" alt="gcp logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" height="40" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo"  />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/deno/deno-ar21~v1.svg" height="40" alt="deno logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/bunsh/bunsh-icon.svg" height="40" alt="bun logo"  />
+  <img src="https://www.vectorlogo.zone/logos/bunsh/bunsh-ar21.svg" height="40" alt="bun logo"  />
   <img width="12" />
 </div>
 
