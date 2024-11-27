@@ -87,7 +87,7 @@ View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align
 
 <p>I am currently building:</p>
 <ul>
-    <li><a href="www.xavierelon.com">www.xavierelon.com</a><a href="https://github.com/XavierElon/xavierelon-portfolio">  [Github Repo] (built with Next/React/Typescript/Tailwind)</a> </li>
+    <li><a href="www.xavierelon.com">www.xavierelon.com</a> &NBSP <a href="https://github.com/XavierElon/xavierelon-portfolio">  [Github Repo] (built with Next/React/Typescript/Tailwind)</a> </li>
     <li><a href="xavierelon-v3.vercel.app">xavierelon-v3.vercel.app</a><a href="https://github.com/XavierElon/xavierelon-v3">  [Github Repo] (built with Next/React/Typescript/Tailwind)</a> </li>
 </ul>
 
