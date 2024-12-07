@@ -5,11 +5,13 @@
  <div align="center">
  <br>
     
-[![Portfolio](https://badgen.net/badge/Portfolio/Visit%20Now/0056b3?labelColor=110e15)](https://www.xavierelon.com/)
-[![Resume](https://badgen.net/badge/Resume/View/0056b3?labelColor=110e15)](https://xavierelon.github.io/resume/resume.pdf)
-[![Blog](https://badgen.net/badge/Blog/Visit/0056b3?labelColor=110e15)](https://wtfprogramming.io/)
-[![LinkedIn](https://badgen.net/badge/LinkedIn/Connect/0056b3?labelColor=110e15)](https://linkedin.com/in/nakuldevmv)
-[![Email](https://badgen.net/badge/Email/Send%20Mail/0056b3?labelColor=110e15)](mailto:xavierelon93@gmail.com)
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+  [![Portfolio](https://badgen.net/badge/Portfolio/Visit%20Now/0056b3?labelColor=110e15)](https://www.xavierelon.com/)
+  [![Resume](https://badgen.net/badge/Resume/View/0056b3?labelColor=110e15)](https://xavierelon.github.io/resume/resume.pdf)
+  [![Blog](https://badgen.net/badge/Blog/Visit/0056b3?labelColor=110e15)](https://wtfprogramming.io/)
+  [![LinkedIn](https://badgen.net/badge/LinkedIn/Connect/0056b3?labelColor=110e15)](https://linkedin.com/in/nakuldevmv)
+  [![Email](https://badgen.net/badge/Email/Send%20Mail/0056b3?labelColor=110e15)](mailto:xavierelon93@gmail.com)
+</div>
  
  <br>
 </div>
