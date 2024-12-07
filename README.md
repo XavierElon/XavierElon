@@ -5,21 +5,11 @@
  <div align="center">
  <br>
     
- <span style="margin-right: 15px;">
-   [![Portfolio](https://badgen.net/badge/Portfolio/Visit%20Now/211720?labelColor=110e15)](https://www.xavierelon.com/)
- </span>
-  <span style="margin-right: 15px;">
-   [![Resume](https://badgen.net/badge/Resume/View/211720?labelColor=110e15)](https://xavierelon.github.io/resume/resume.pdf)
- </span>
- <span style="margin-right: 15px;">
-   [![Blog](https://badgen.net/badge/Blog/Visit/211720?labelColor=110e15)](https://wtfprogramming.io/)
- </span>
- <span style="margin-right: 15px;">
-   [![LinkedIn](https://badgen.net/badge/LinkedIn/Connect/211720?labelColor=110e15)](https://linkedin.com/in/nakuldevmv)
- </span>
- <span style="margin-right: 15px;">
-   [![Email](https://badgen.net/badge/Email/Send%20Mail/211720?labelColor=110e15)](mailto:xavierelon93@gmail.com)
- </span>
+[![Portfolio](https://badgen.net/badge/Portfolio/Visit%20Now/211720?labelColor=110e15)](https://www.xavierelon.com/)
+[![Resume](https://badgen.net/badge/Resume/View/211720?labelColor=110e15)](https://xavierelon.github.io/resume/resume.pdf)
+[![Blog](https://badgen.net/badge/Blog/Visit/211720?labelColor=110e15)](https://wtfprogramming.io/)
+[![LinkedIn](https://badgen.net/badge/LinkedIn/Connect/211720?labelColor=110e15)](https://linkedin.com/in/nakuldevmv)
+[![Email](https://badgen.net/badge/Email/Send%20Mail/211720?labelColor=110e15)](mailto:xavierelon93@gmail.com)
  
  <br>
 </div>
