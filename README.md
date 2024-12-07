@@ -5,8 +5,8 @@
  <div align="center">
  <br>
     
-[![Portfolio](https://badgen.net/badge/Portfolio/Visit%20Now/211720?labelColor=110e15)](https://www.xavierelon.com/)
-[![Resume](https://badgen.net/badge/Resume/View/211720?labelColor=007bff)](https://xavierelon.github.io/resume/resume.pdf)
+[![Portfolio](https://badgen.net/badge/Portfolio/Visit%20Now/1E90FF?labelColor=110e15)](https://www.xavierelon.com/)
+[![Resume](https://badgen.net/badge/Resume/View/1E90FF?labelColor=007bff)](https://xavierelon.github.io/resume/resume.pdf)
 [![Blog](https://badgen.net/badge/Blog/Visit/211720?labelColor=110e15)](https://wtfprogramming.io/)
 [![LinkedIn](https://badgen.net/badge/LinkedIn/Connect/211720?labelColor=110e15)](https://linkedin.com/in/nakuldevmv)
 [![Email](https://badgen.net/badge/Email/Send%20Mail/211720?labelColor=110e15)](mailto:xavierelon93@gmail.com)
