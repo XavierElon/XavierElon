@@ -8,6 +8,7 @@
 [![Resume](https://badgen.net/badge/Resume/View/0056b3?labelColor=110e15)](https://xavierelon.github.io/resume/resume.pdf) &nbsp;&nbsp;&nbsp;
 [![Blog](https://badgen.net/badge/Blog/Visit/0056b3?labelColor=110e15)](https://wtfprogramming.io/) &nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://badgen.net/badge/LinkedIn/Connect/0056b3?labelColor=110e15)](https://linkedin.com/in/xavierelon) &nbsp;&nbsp;&nbsp;
+[![Youtube](https://badgen.net/badge/Youtube/Connect/0056b3?labelColor=110e15)](https://www.youtube.com/@xavierelon) &nbsp;&nbsp;&nbsp;
 [![Email](https://badgen.net/badge/Email/Send%20Mail/0056b3?labelColor=110e15)](mailto:xavierelon93@gmail.com)
  
 </div>
@@ -19,11 +20,11 @@
 </div>
 
 - 🌱 I’m currently learning **Machine Learning/Deep Learning** to become a Machine Learning Engineer
-
+- <p>I am currently pursuing my masters in the <a href="https://omscs.gatech.edu/current-courses">OMSCS program</a> at Georgia Tech specializing in AI and Machine Learning.</p>
 
 <!--     View my <a href="https://xavierelon.github.io/resume/resume.pdf">resume</a> -->
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/xavierelon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xavierelon" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/xavierelon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xavierelon" height="30" width="40" /></a>
@@ -31,14 +32,12 @@
 </p>
 
 <br/>
-
+-->
 View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align="left"> 
 
 <!--     <p align="center"> 💬 Email me at <b>xavierelon93@gmail.com</b></p> -->
 
 <br><br>
-
-<p>I am currently a student at Georgia Tech pursuing my masters in the <a href="https://omscs.gatech.edu/current-courses">OMSCS</a> specializing in AI and Machine Learning.</p>
 
 <h3 align="left">Languages:</h3>
 <div align="left">
