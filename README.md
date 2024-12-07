@@ -12,9 +12,8 @@
  
 </div>
 
-☢️ 🌍 ~> ⛧ [www.xavierelon.com](https://xavierelon-portfolio.vercel.app/) ✨ 
-USA 🇺🇸 San Francisco
-<div align="right">
+☢️ 🌍 ~> ⛧ ✨  USA 🇺🇸 San Francisco
+<div align="center">
   Visitors:
   <img src="https://profile-counter.glitch.me/xavierelon/count.svg?"  />
 </div>
@@ -22,7 +21,7 @@ USA 🇺🇸 San Francisco
 - 🌱 I’m currently learning **Machine Learning/Deep Learning** to become a Machine Learning Engineer
 
 
-View my <a href="https://xavierelon.github.io/resume/resume.pdf">resume</a>
+<!--     View my <a href="https://xavierelon.github.io/resume/resume.pdf">resume</a> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +34,7 @@ View my <a href="https://xavierelon.github.io/resume/resume.pdf">resume</a>
 
 View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align="left"> 
 
-<p align="center"> 💬 Email me at <b>xavierelon93@gmail.com</b></p>
+<!--     <p align="center"> 💬 Email me at <b>xavierelon93@gmail.com</b></p> -->
 
 <br><br>
 
