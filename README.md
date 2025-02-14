@@ -65,6 +65,8 @@ View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" height="40" alt="tensorflow logo"  />
