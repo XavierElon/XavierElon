@@ -146,6 +146,7 @@ My WakaTime/Developer Stats:
   </a>
 </p>
 
+<!--
 My Leetcode stats:
 <br />
 
@@ -154,6 +155,7 @@ My Leetcode stats:
     <img title="XavierElon's LeetCode Stats" alt="XavierElon's LeetCode Stats" src="https://leetcard.jacoblin.cool/XavierElon?theme=unicorn&font=Courier%20Prime&ext=activity" />
   </a>
 </p>
+-->
 
 <!--
 Languages, technology and frameworks I am well versed at: 
