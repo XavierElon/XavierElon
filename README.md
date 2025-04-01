@@ -1,6 +1,6 @@
  **Fullstack** Software Engineer. **Actively looking for a new job in San Francisco at a startup or in tech**
  
- **Currently working at Booz Allen as a Full-Stack Senior Sotware Engineer**
+ **Currently working at Booz Allen as a Full-Stack Lead Sotware Engineer**
 
  <div align="center" style="display:flex; gap: 15px; flex-wrap: wrap;">
     
@@ -19,23 +19,10 @@
   <img src="https://profile-counter.glitch.me/xavierelon/count.svg?"  />
 </div>
 
-- 🌱 I’m currently learning **Machine Learning/Deep Learning** to become a Machine Learning Engineer
-- <p>I am currently pursuing my masters in the <a href="https://omscs.gatech.edu/current-courses">OMSCS program</a> at Georgia Tech specializing in AI and Machine Learning.</p>
+<!---  I’m currently learning **Machine Learning/Deep Learning** to become a Machine Learning Engineer -->
+- <p>🌱 I am currently pursuing my masters in the <a href="https://omscs.gatech.edu/current-courses">OMSCS program</a> at Georgia Tech in Computer Science.</p>
 
-<!--     View my <a href="https://xavierelon.github.io/resume/resume.pdf">resume</a> -->
-
-<!--<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/xavierelon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xavierelon" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/xavierelon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xavierelon" height="30" width="40" /></a>
- <a href="https://youtube.com/xavierelon" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="xavierelon" height="30" width="40" /></a>
-</p>
-
-<br/>
--->
 View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align="left"> 
-
-<!--     <p align="center"> 💬 Email me at <b>xavierelon93@gmail.com</b></p> -->
 
 <br><br>
 
