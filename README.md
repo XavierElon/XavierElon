@@ -89,12 +89,13 @@ View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align
   <img width="12" /> -->
 </div>
 
-
+<!--
 <p>I am currently building:</p>
 <ul>
     <li><a href="www.xavierelon.com">www.xavierelon.com</a>  <a href="https://github.com/XavierElon/xavierelon-portfolio">  [Github Repo] </a>(built with Next/React/Typescript/Tailwind)</li>
     <li><a href="xavierelon-v3.vercel.app">xavierelon-v3.vercel.app</a>     <a href="https://github.com/XavierElon/xavierelon-v3">  [Github Repo] </a>(built with Next/React/Typescript/Tailwind)</li>
 </ul>
+-->
 
 <p>Some ML Projects I have built</p>
 <ul>
