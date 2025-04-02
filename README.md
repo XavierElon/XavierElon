@@ -118,6 +118,7 @@ View my <a href="https://xsj-ui.vercel.app/">Full-stack AI Chat App</a> <p align
 
 <img src="https://raw.githubusercontent.com/xavierelon/xavierelon/output/snake.svg" alt="Snake animation" />
 
+<!--
 My Github Breakdown:
 <br />
 <p align="center">
@@ -125,6 +126,7 @@ My Github Breakdown:
     <img title="XavierElon's Top Github Languages" alt="XavierElon's Top Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierElon&layout=donut-vertical&theme=cobalt" />
   </a>
 </p>
+-->
 
 <br />
 
