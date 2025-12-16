@@ -1,6 +1,6 @@
- **Fullstack** Software Engineer. **Actively looking for a new job in San Francisco at a startup or in tech**
+ **Fullstack** Software Engineer. <!-- **Actively looking for a new job in San Francisco at a startup or in tech** -->
  
- **Currently working at Booz Allen as a Full-Stack Lead Sotware Engineer**
+ **Currently working at Amazon on Project Kuiper Control Plane team as a Software Development Engineer 2**
 
  <div align="center" style="display:flex; gap: 15px; flex-wrap: wrap;">
     
